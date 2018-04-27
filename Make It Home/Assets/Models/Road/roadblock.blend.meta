@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: ad0d22bba03a27f4ca845ab2855259da
+timeCreated: 1512329725
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_000
+    100004: Cube_001
+    100006: Cube_002
+    100008: Cube_003
+    100010: Cube_004
+    100012: Cube_005
+    100014: Cube_006
+    100016: Cube_010
+    100018: Icosphere
+    100020: Icosphere_001
+    100022: //RootNode
+    400000: Cube
+    400002: Cube_000
+    400004: Cube_001
+    400006: Cube_002
+    400008: Cube_003
+    400010: Cube_004
+    400012: Cube_005
+    400014: Cube_006
+    400016: Cube_010
+    400018: Icosphere
+    400020: Icosphere_001
+    400022: //RootNode
+    2300000: Cube
+    2300002: Cube_000
+    2300004: Cube_001
+    2300006: Cube_002
+    2300008: Cube_003
+    2300010: Cube_004
+    2300012: Cube_005
+    2300014: Cube_006
+    2300016: Cube_010
+    2300018: Icosphere
+    2300020: Icosphere_001
+    3300000: Cube
+    3300002: Cube_000
+    3300004: Cube_001
+    3300006: Cube_002
+    3300008: Cube_003
+    3300010: Cube_004
+    3300012: Cube_005
+    3300014: Cube_006
+    3300016: Cube_010
+    3300018: Icosphere
+    3300020: Icosphere_001
+    4300000: Cube_006
+    4300002: Cube_005
+    4300004: Cube_004
+    4300006: Cube_002
+    4300008: Icosphere_001
+    4300010: Cube_001
+    4300012: Cube
+    4300014: Icosphere
+    4300016: Cube_000
+    4300018: Cube_003
+    4300020: Cube_010
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: f0dadf0418b1a3d48a85139511addee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 2417635e974534a4eb4890ee3041e880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow
+    second: {fileID: 2100000, guid: f147cc830f3309346beb58da7390453d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boringwhite_002
+    second: {fileID: 2100000, guid: 8ea9b9c5f937d8f489e776f7cd8dd3ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_002
+    second: {fileID: 2100000, guid: 2bd1a6a4b2ddf474fb170a3f15499643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pylon_bottoms_002
+    second: {fileID: 2100000, guid: 3114dc6b81ef6554c95810028727ce9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roadblockgray
+    second: {fileID: 2100000, guid: 3ab3324d08fe12c48af0edbd4b8a85a2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

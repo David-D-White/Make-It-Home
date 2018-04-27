@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 7d9967fa151f20242b40adee555d1c02
+timeCreated: 1512356115
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: //RootNode
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: //RootNode
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    4300000: Cube
+    4300002: Cube_001
+    4300004: Cube_002
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carwindowshader
+    second: {fileID: 2100000, guid: 326e1e384c29aad49a76f767f573362d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirt
+    second: {fileID: 2100000, guid: d782ace2c223589448ebe52b0d8d48df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirt_001
+    second: {fileID: 2100000, guid: ac3172d34dbf5984ab816fe69428bc81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirtorsomething
+    second: {fileID: 2100000, guid: 1cba16120085c3c40b7732a07b953704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_000
+    second: {fileID: 2100000, guid: 9c0a9ac1bddeec44e8354e9907272a7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_001
+    second: {fileID: 2100000, guid: eefe6254fdb19dd48921d651d2d16cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garage_door
+    second: {fileID: 2100000, guid: 06b9192442b46e5469f5b904275d60ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garage_door_001
+    second: {fileID: 2100000, guid: d21994cc7f88bf54a9e08bb27d1d5059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass2
+    second: {fileID: 2100000, guid: ed8b5fd59e6aaed44b85cad9c327396d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass2_001
+    second: {fileID: 2100000, guid: be9331c3bcbaa2043b6465b0bec67708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grasscube
+    second: {fileID: 2100000, guid: 0e542c2b9e68d464caf5b1e74ce02c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: greengloss
+    second: {fileID: 2100000, guid: da080119db92e2e4c8ca9c93005dee78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handle_000
+    second: {fileID: 2100000, guid: a14fff3a7efe2054bae958cfc5751186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handle_001
+    second: {fileID: 2100000, guid: e99bc44547e711c4b8b506b86b23cf52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights
+    second: {fileID: 2100000, guid: 606bab4a0b6f5c2409e33c2f61e5dbac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mainhouse
+    second: {fileID: 2100000, guid: a97640b4ee916f54a93c4e58144e481c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mainhouse_003
+    second: {fileID: 2100000, guid: 8c370806229754c45bc62a4603784feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 6a11a64c056100243a184ce99733d8d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pot
+    second: {fileID: 2100000, guid: a4c28bee274761847861ebdf7c1c2d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pot_001
+    second: {fileID: 2100000, guid: 7594ccd9100708641aca6fef6f276d77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_002
+    second: {fileID: 2100000, guid: bd76c3eaae245dc4293a54095ef3fe92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_004
+    second: {fileID: 2100000, guid: 2ea53e0403e1f8742a19b995f77a06e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shutters_000
+    second: {fileID: 2100000, guid: a9712a4bb2c12a64a857d9f56076c417, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shutters_001
+    second: {fileID: 2100000, guid: a8b6e158b2c47ae478a52eee6727d1a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: 260514e46d3c9eb46aa228da4b12a564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim_000
+    second: {fileID: 2100000, guid: 854216c4f904fbd469f08affbccbe244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim_001
+    second: {fileID: 2100000, guid: b9fff576701cab94fb214da6cc6ee811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim_002
+    second: {fileID: 2100000, guid: 9fec6e21011751b46a6d6fd411ab4e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim_004
+    second: {fileID: 2100000, guid: 0bb0c7c3f21365e43b068d893edc6f03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window
+    second: {fileID: 2100000, guid: c66912fdc0f627c4dab040d519c9605b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_001
+    second: {fileID: 2100000, guid: aa9259394ff81284886ef0e80fd88820, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
